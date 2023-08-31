@@ -5,10 +5,8 @@
   <br>
   Patch your apps on a familiar interface, now on powerful PC hardware.
   <br>
-  Built on Flask and Javascript.
-  <br>
-  <br>
-  <small>
+  Built with Flask and Javascript.
+  <h6 align="center">
       <i>Visit repository <a href="https://github.com/exconvinced/revanced-web-app">here</a></i>
-  </small>
+  </h6>
 </p>
